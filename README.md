@@ -9,7 +9,7 @@ Welcome to the Virat Kohli Runs Dashboard repository! This project aims to provi
 
 ## How to Use:
 1. *Download:* Clone or download the repository to your local machine.
-2. *Open in Power BI(https://app.powerbi.com/groups/me/reports/4963e189-065d-477f-a288-b872ba96cb30/ReportSection?experience=power-bi):* Open the .pbix file in Power BI Desktop to explore the dashboard.
+2. *[Open in Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDdmM2JiNmYtMmE3MS00ODNkLTg3YmMtN2Q0Mjg5NmE0NmE1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9):* Open the .pbix file in Power BI Desktop to explore the dashboard.
 3. *Interact:* Use slicers to filter data, hover over visualizations for detailed information, and explore Virat Kohli's cricket journey.
 
 ## Technologies Used:
